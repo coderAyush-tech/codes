@@ -14,7 +14,7 @@ int main(){
             str[i]=str[j];
             str[j]=temp;
       }
-         printf("%c,",str[i]);
+         printf("%c",str[i]);
     }
  
 }
